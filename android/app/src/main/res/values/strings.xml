@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">HouseControl</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="Strings">
+        <item >Star lights</item>
+        <item >Room lights</item>
+    </string-array>
+</resources>
