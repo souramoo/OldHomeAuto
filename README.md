@@ -1,4 +1,7 @@
 # HouseControl
+
+NOTE (05/Aug/15 - I have rewritten this to be better and less flimsy [USB lights aren't great for reading!] - see my new code at https://github.com/moosd/HomeAutomation )
+
 Small project to control a raspberry pi connected to an arduino over wifi (using an android app and a python server)
 
 In my adventures in home automation, I have been using a raspberry pi to interface with an arduino. The arduino output controls a USB hub to turn on/off power to it. The USB hub is connected to several USB powered lights around my room.
